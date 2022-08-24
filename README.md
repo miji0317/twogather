@@ -10,7 +10,7 @@ http://34.64.86.202/
 
 https://www.youtube.com/watch?v=al_ei550YEs
 <br>
-<img src="https://user-images.githubusercontent.com/73158122/185178362-e00a1d82-f398-4c8e-b908-fecf6ac54b56.gif" width="60%"/>
+<img src="https://user-images.githubusercontent.com/73158122/185178362-e00a1d82-f398-4c8e-b908-fecf6ac54b56.gif" width="70%"/>
 
 <br>
 
