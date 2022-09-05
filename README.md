@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=al_ei550YEs
 - 예약 등록
   <img src="https://user-images.githubusercontent.com/73158122/182605691-a9bac9f0-9a68-4e9c-bc3a-53ee19bda423.png" width="60%">
 
-- Figma
+- <a href="https://www.figma.com/file/11R0lkBAQmi4Pv2Js7fkUX/Twogather?node-id=0%3A1">Figma</a>
   <img width="1187" alt="figma" src="https://user-images.githubusercontent.com/73158122/182605839-ebb468b9-ef27-4947-a31b-047fb06ec267.png">
 
 ### 7. 페이지별 화면
